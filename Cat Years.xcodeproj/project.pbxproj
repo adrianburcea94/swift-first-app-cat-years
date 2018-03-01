@@ -14,6 +14,7 @@
 		9B04C14C204865AB00199DED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B04C14A204865AB00199DED /* LaunchScreen.storyboard */; };
 		9B04C157204865AB00199DED /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B04C156204865AB00199DED /* Cat_YearsTests.swift */; };
 		9B04C162204865AB00199DED /* Cat_YearsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B04C161204865AB00199DED /* Cat_YearsUITests.swift */; };
+		9B04C1702048699600199DED /* cat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9B04C16F2048699600199DED /* cat.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9B04C15D204865AB00199DED /* Cat YearsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B04C161204865AB00199DED /* Cat_YearsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsUITests.swift; sourceTree = "<group>"; };
 		9B04C163204865AB00199DED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B04C16F2048699600199DED /* cat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		9B04C140204865AB00199DED /* Cat Years */ = {
 			isa = PBXGroup;
 			children = (
+				9B04C16F2048699600199DED /* cat.jpeg */,
 				9B04C141204865AB00199DED /* AppDelegate.swift */,
 				9B04C143204865AB00199DED /* ViewController.swift */,
 				9B04C145204865AB00199DED /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B04C1702048699600199DED /* cat.jpeg in Resources */,
 				9B04C14C204865AB00199DED /* LaunchScreen.storyboard in Resources */,
 				9B04C149204865AB00199DED /* Assets.xcassets in Resources */,
 				9B04C147204865AB00199DED /* Main.storyboard in Resources */,
